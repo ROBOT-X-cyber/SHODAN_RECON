@@ -1,5 +1,7 @@
 #SHODAN DORK
 org:"Organisation name here"
+hostname:domain.com
+ssl.cert.subject.cn:domain.com
 
 #Find the organisation name from SSL Certificate.
 
